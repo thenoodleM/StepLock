@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 # StepLock
 
 **Earn your screen time by moving.**
@@ -8,8 +16,8 @@ Instead of relying entirely on willpower to limit screen time, StepLock encourag
 
 ## Showcase
 
-A video demonstrating StepLock's interface and functionality will be available here.
-
+[A video demonstrating StepLock's interface and functionality will be available here.
+](https://github.com/user-attachments/assets/154cbcdc-83b9-4e0d-af91-cf2faab5a173)
 
 ## Features
 
